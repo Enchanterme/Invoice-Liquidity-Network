@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "origin",
+    "wave-9/1218-complete-canonical-sdk-package-name-migration"
+  ],
+  "parent": {
+    "dev": null,
+    "origin": "dev",
+    "wave-9/1218-complete-canonical-sdk-package-name-migration": "dev"
+  },
+  "order": [
+    "dev",
+    "origin",
+    "wave-9/1218-complete-canonical-sdk-package-name-migration"
+  ]
+}
